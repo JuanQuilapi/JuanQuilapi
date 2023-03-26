@@ -1,6 +1,6 @@
 <div align="center">
 
-Hello! My name is Juan Quilapi, I live in Santiago de Chile and I am currently Computer Science in Universidad de Chile.
+Hello! My name is Juan Quilapi, I live in Santiago de Chile and I am currently Computer Science student in Universidad de Chile.
 
 </div>
 
