@@ -25,6 +25,7 @@ Hello! My name is Juan Quilapi, I live in Santiago de Chile and I am currently C
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
 
 ### Technologies
 
