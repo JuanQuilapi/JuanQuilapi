@@ -1,6 +1,6 @@
 <div align="center">
 
-Hello! My name is Juan Quilapi, I live in Santiago de Chile and I am currently Computer Science student in Universidad de Chile.
+Hello! My name is Juan Quilapi, I live in Santiago de Chile and I am Computer Science engineer of Universidad de Chile.
 
 </div>
 
@@ -11,7 +11,7 @@ Hello! My name is Juan Quilapi, I live in Santiago de Chile and I am currently C
 <br>
 
 - 💙 My main interests are Machine Learning, Software Engineering, Natural Language Processing and Image Processing.
-- 🏫 I am interested in pursuing a master's degree in Data Science from the [University of Chile ](https://www.dcc.uchile.cl/).
+- 🏫 I am have a master's degree in Data Science from the [University of Chile ](https://www.dcc.uchile.cl/).
 - ⚽ I really enjoy sports like futbol and volleyball.
 
 
